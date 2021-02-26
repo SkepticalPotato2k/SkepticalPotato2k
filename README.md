@@ -1,4 +1,4 @@
-# Hello, Its The OG Legendary Potato Of Your Dreams! 👋
+# Hello, Its Me! The Legendary Potato Of Your Dreams! 👋
 
 🔭 Im Currently  Working On "Adventure-Colussus".
 
