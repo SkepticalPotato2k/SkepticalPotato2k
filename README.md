@@ -1,8 +1,9 @@
 # Hello, Its The OG Legendary Potato Of Your Dreams! 👋
 
-Im Currently Learning Python And Working On "Adventure-Colussus".
+🔭 Im Currently  Working On "Adventure-Colussus".
 
-How To Contact Me? TheCampingRusher#8429 At Discord!
+🌱 Im Also Learning Python.
 
-Where Am I From? Potato Farm! 
+📫 How To Contact Me? TheCampingRusher#8429 At Discord!
 
+⚡ Fun fact: I Always Talk To God In Skype God Premium.
