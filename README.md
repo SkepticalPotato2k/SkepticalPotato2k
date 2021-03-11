@@ -1,6 +1,6 @@
 # Hello, Its Me! The Legendary Potato Of Your Dreams! 👋
 
-🔭 Im Currently  Working On "Adventure-Colussus".
+🔭 Im Currently Working On Adventure-Colussus, Terminal And SpammerBot.
 
 🌱 Im Also Learning Python.
 
